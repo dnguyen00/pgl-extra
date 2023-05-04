@@ -1,0 +1,12 @@
+{hello+world;{bob+world;DataType bob,hello,world;
+
+};}
+
+while(true) {
+    DataType x, y, z, a, w, f, h, r, wq, v;
+}
+
+
+if(a>b){hello+world
+;}el
+se{bob+world;}
